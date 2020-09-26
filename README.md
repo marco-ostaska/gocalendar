@@ -1,5 +1,7 @@
 # gocalendar - A Golang simple calendar
 
+[![Go Report Card](https://goreportcard.com/badge/github.com/marco-ostaska/gocalendar)](https://goreportcard.com/report/github.com/marco-ostaska/gocalendar)
+
 gocalendar is a simple CLI calendar tool
 
 ## Usage:
